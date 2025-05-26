@@ -39,10 +39,6 @@ This project is a cloud-based online course management system (similar to Udemy)
 
 ---
 
-## 📷 Screenshots
-> *Add screenshots or GIFs of your Lightning Web Components, dashboards, or forms here for better visualization.*
-
----
 
 ## 🧪 Setup Instructions (For Reviewers)
 1. Log in to your Salesforce Developer Org.
